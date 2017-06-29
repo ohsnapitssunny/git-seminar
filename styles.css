@@ -1,7 +1,14 @@
 h1 {
     text-align: center;
+    font-family: Impact;
+    font-size: 48px;
+    background-color: #800000;
+    color: #FFFFFF;
 }
 
 ul {
-    
+    text-align: center;
+    font-family: Verdana;
+    font-size: 30px;
+    background-color: #FFD700;
 }
